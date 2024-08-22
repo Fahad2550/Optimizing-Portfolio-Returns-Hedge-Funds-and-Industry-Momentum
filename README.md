@@ -48,4 +48,5 @@ This project focuses on two key areas of financial analytics: optimizing hedge f
 
 This project provides a comprehensive analysis of hedge fund portfolio optimization and industry momentum strategies. By leveraging Python and Excel, the project explores the trade-offs between risk and return in portfolio management, offering valuable insights into the effectiveness of different allocation strategies. The findings contribute to a deeper understanding of how to manage and optimize financial portfolios in a real-world setting.
 
-![image](https://github.com/user-attachments/assets/90451fc3-8f59-40b8-b32d-493079c927b4)
+![image](https://github.com/user-attachments/assets/7203d93d-a1a4-4435-9691-0cf8fe0f77a7)
+
